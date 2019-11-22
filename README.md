@@ -3,18 +3,18 @@ Guzzle Async Example
 
 Download the project.
 
-```PHP
+```BASH
 git clone git@github.com:memochou1993/guzzle-async-example.git
 ```
 
 Install the Composer dependencies.
 
-```PHP
+```BASH
 composer install
 ```
 
 Run code.
 
-```PHP
+```BASH
 php index.php
 ```
